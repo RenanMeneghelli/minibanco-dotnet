@@ -2,7 +2,7 @@
 
 ## Identificação
 
-- **Aluno(a):** _(preencha com seu nome)_
+- **Aluno(a):**Douglas Renan Meneghelli 
 - **Curso:** Desenvolvedor Back-End .NET — Mini-Projeto Avaliativo, Módulo 2, Semana 07
 - **Vídeo de apresentação:** _(cole aqui o link do vídeo — Google Drive com acesso por link ou YouTube não listado)_
 
